@@ -1,0 +1,17 @@
+/help -> used to see all the jshell commands 
+/? - > used to see all the jshell commands with this command also similar to /help
+jshell -> used to open jshell command line
+/imports -> used to see all the imports package in jshell
+/exit -> used to exit from jshell window
+/list -> used to check history whatever you have written
+/edit -> used to edit the code on jshell window
+/drop -> used to delete source code from jshell window always used /drop with id or name for example /drop 1 here 1 is id or if you want to drop multiple id's then use /drop 1 2 3 here 1,2,3 is id 
+	you will get id by using /list command whatever result will come called id.
+/save fileName -> used to save the jshell code
+/open filenName -> used to open saved jshell file
+/history -> used to see all history whatever you have typed in jshell windows
+/vars -> used to see list of variable that how many variable you have created in jshell
+/methods -> used to see list of methods that you have create in jshell
+/types -> used to see how many class, interface, and enum you have created in jshell
+/reset -> used to reset the jshell means it will delete all previous data and will reset and new fresh window will come
+/set -> used to set jshell toll
